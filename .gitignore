@@ -1,0 +1,12 @@
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.aspx
+*.001
+*.002
+*.gif
+*.csv
+*.zip
+*.gz
+*.venv
